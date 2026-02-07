@@ -4,7 +4,8 @@ using System.Text;
 
 namespace proyecto_Pr._1
 {
-    internal class mynewclass1
+    public class mynewclass1
     {
+
     }
 }
