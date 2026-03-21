@@ -149,15 +149,22 @@ ejemplo de comentario de columnas
 
    }
 
-Console.WriteLine("por favor ingrese un numero :");
 
-int num = Convert.ToInt32(Console.ReadLine());
-
-if  (num % 2 == 0)
 {
-    Console.WriteLine("su numero es par");
+    //Console.WriteLine("por favor ingrese un numero :");
+
+    //int num = Convert.ToInt32(Console.ReadLine());
+
+    //if (num % 2 == 0)
+    //{
+    //    Console.WriteLine("su numero es par");
+    //}
+    //else
+    //{
+    //    Console.WriteLine("su numero es impar");
+    //}
+
 }
-else
-{
-    Console.WriteLine("su numero es impar");
-}    
+
+
+
